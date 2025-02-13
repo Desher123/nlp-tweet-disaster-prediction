@@ -1,0 +1,11 @@
+jupyter==1.1.1
+scikit-learn==1.5.1
+pandas==2.2.2
+matplotlib==3.9.1
+tensorflow==2.18.0
+keras==3.8.0
+pillow==10.4.0
+keras-nlp==0.18.1
+keras-core==0.1.7
+nltk==3.9.1
+altair[all]
